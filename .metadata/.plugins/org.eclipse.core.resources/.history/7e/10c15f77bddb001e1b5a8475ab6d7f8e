@@ -1,0 +1,58 @@
+package intro;
+
+import java.util.Scanner;
+
+public class controlstatement {
+	public static void main(String[] args) {
+	
+	int number1=20;
+	int number2=50;
+	
+	if (number1<number2) {
+			System.out.println(number1 + ": kucuktur");
+	}	
+	
+	else if(number1>number2) {
+		System.out.println(number1 + ": buyuktur");
+	
+	}
+	else 
+		(System.out.println("Sayılar eşit"); 
+
+	
+
+
+
+	Scanner scanner = new Scanner(System.in);
+	System.out.print("Hesap Bakiyenizi giriniz :");
+	double accountBalance = scanner.nextDouble();
+	System.out.println("Çekmek istediğiniz miktarı girin : ");
+	double amount = scanner.nextDouble();
+	
+	if (amount<=accountBalance) {
+		accountBalance -= amount;
+		System.out.println("Para çekme işlemi başarılı" + "Güncel bakiye :" +accountBalance);
+		
+	}
+	else {
+		(System.out.println("yetersiz bakiye");	
+	}
+	
+	
+	
+	}
+	
+
+
+}
+
+
+
+	
+	
+	
+	
+	
+	
+	
+
