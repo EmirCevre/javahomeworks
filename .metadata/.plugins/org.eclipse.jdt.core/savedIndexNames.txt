@@ -1,17 +1,17 @@
-INDEX VERSION 1.134+D:\Yeni klasör\.metadata\.plugins\org.eclipse.jdt.core
-3960057334.index
-1220614122.index
-2888110583.index
+INDEX VERSION 1.134+D:\java\.metadata\.plugins\org.eclipse.jdt.core
 3081529340.index
 1702225601.index
-1865797976.index
+3960057334.index
 3750878710.index
-3620951056.index
+4287414842.index
+373274376.index
+3362688605.index
 923455450.index
-380197650.index
+1865797976.index
 505790315.index
 966851747.index
-4287414842.index
-3362688605.index
-373274376.index
+1220614122.index
+2888110583.index
+2522028217.index
 1322099345.index
+3620951056.index
